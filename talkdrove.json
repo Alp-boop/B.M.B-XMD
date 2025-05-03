@@ -20,7 +20,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "B.M.B-XMD 𝙱𝙾𝚃"  
+      "value": "Mike 𝙱𝙾𝚃"  
     },    
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
@@ -65,7 +65,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "50947065102"
    }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
