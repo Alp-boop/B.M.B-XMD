@@ -8,8 +8,8 @@
     "owner-verification": "tzsailas@gmail.com",  
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. B.m.b-Xmd~xS82XLSK#HXE8XvESxm8jhujNIwnA-9guxQ3tW2Rq1nllBjcbIt4",
-        "value":"",
+        "description": "B.m.b-Xmd~xS82XLSK#HXE8XvESxm8jhujNIwnA-9guxQ3tW2Rq1nllBjcbIt4",
+        "value":""
         "required": true        
     },
       "PREFIX": {
